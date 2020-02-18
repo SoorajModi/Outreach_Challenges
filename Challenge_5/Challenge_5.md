@@ -4,3 +4,27 @@ For this challenge, program a game of rock, paper scissors between a user and th
 The computer should make its choice randomly. The program should compare the user's choice,
 with the computer's choice, and decide a winner or if it is a draw. The program should continue
 indefinitely until a winner is decided.
+
+## Sample Input/Output
+
+Draw
+```
+Enter rock, paper or scissors: rock
+
+Draw! Both you and the CPU drew rock. 
+Try again.
+```
+
+Win
+```
+Enter rock, paper or scissors: rock
+
+Winner! CPU drew scissors.
+```
+
+Lose
+```
+Enter rock, paper or scissors: rock
+
+CPU Wins! CPU drew paper.
+```

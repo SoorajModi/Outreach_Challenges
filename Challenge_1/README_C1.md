@@ -10,13 +10,14 @@ enter a `q`
 
 Circumference of a circle = 2 x Pi x radius
 
-Area of a circle = Pi x radius sqaured
+Area of a circle = Pi x radius squared
 
-## How to edit
+## Sample input/output
 
-There are a few editors you can use including nano, geany and atom.
+```
+Enter the radius of the circle: 5
 
-## How to run
-
-if you enter `python3 Challenge1.py` you should be able to run the file
+Area of the circle is: 78.54
+Circumference of the circle: 31.42
+```
 
