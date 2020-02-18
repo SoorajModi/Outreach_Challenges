@@ -1,4 +1,4 @@
-# Challenge 3: Array 
+# Challenge 3: Array Addition
 
 Given an array of random integers, write a program that finds:
 1.	The sum of all elements at even subscripts
