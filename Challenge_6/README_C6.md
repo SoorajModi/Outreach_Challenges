@@ -1,6 +1,6 @@
 # Challenge 6: Tic Tac Toe
 
-Your final challenge, is to make a working game of tic tac toe!
+You're in a potential Google Coop interview. The final question before you get the job, is to make a working game of tic-tac-toe!
 
 ## Sample Input/Output
 

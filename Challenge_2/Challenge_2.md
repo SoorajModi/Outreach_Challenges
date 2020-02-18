@@ -1,6 +1,7 @@
-# Challenge 3: Pig Latin Translator
+# Challenge 2: Pig Latin Translator
 
-For this challenge you are going to create a program to translate words in english to pig latin!
+The University of Guelph is opening up a new course, one on Pig Latin! They arent allowed on Google Translate in in class, so they need
+you need you to write a translator for English to Pig Latin to help students (and the professor) learn the language!
 
 Rules:
 1. If a word begins with a vowel, just as "yay" to the end. For example, "out" is translated into "outyay".

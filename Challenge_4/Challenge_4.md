@@ -1,9 +1,14 @@
 # Challenge 4: Grade Calculator
 
+The professor teaching the introduction to programming course, CIS 1500, wants a grade calculator to make entering
+in students grades easier.
+
 For this challenge, you have to program a grade calculator that calculates the 
 required final exam mark for a CIS 1500 student, given the student’s desired
 overall course grade and their current marks (daily practice, weekly labs, 
 lab exams, quizzes, A1, A2 and A3) in the course. 
+
+Finish `Challenge4.py` and add logic to get the specified output.
 
 Maintain two decimal places throughout the generated report.
 
