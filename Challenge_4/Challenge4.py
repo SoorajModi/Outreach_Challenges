@@ -11,6 +11,14 @@ ass2Grade = input("Assignment 2: ")
 ass3Grade = input("Assignment 3: ")
 finalExamGrade = input("How much do you desire as an overall grade in CIS 1500: ")
 
+###################### Your code here ##############################
+
+currCouseMark = "0"
+examPoints = "0"
+examPercentage = "0"
+
+###################################################################
+
 print("**************************************************")
 print("Assessment\t\tWeight\t\tMarks\t\t")
 print("--------------------------------------------------")
@@ -25,7 +33,7 @@ print("Assignment 2\t\t7\t\t" + ass2Grade)
 print("Assignment 3\t\t8\t\t" + ass3Grade)
 print("Final Exam\t\t35\t\tTo be determined")
 print("**************************************************")
-print("Current course mark = X out of 65.00")
-print("You need X / 35.00 to reach your goal (" + finalExamGrade + "%)")
-print("In percentage, you need X% to reach your goal (" + finalExamGrade + "%)")
+print("Current course mark = " + currCouseMark + " out of 65.00")
+print("You need " + examPoints + " / 35.00 to reach your goal (" + finalExamGrade + "%)")
+print("In percentage, you need " + examPercentage + "% to reach your goal (" + finalExamGrade + "%)")
 print("**************************************************")

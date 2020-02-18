@@ -4,7 +4,7 @@ The University of Guelph is opening up a new course, one on Pig Latin! They aren
 you need you to write a translator for English to Pig Latin to help students (and the professor) learn the language!
 
 Rules:
-1. If a word begins with a vowel, just as "yay" to the end. For example, "out" is translated into "outyay".
+1. If a word begins with a vowel, just as "ay" to the end. For example, "out" is translated into "outyay".
 2. If it begins with a consonant, then we take all consonants before the first vowel and we put them on the end of the word. For example, "which" is translated into "ichwhay".
 
 ## Sample Input/Output
