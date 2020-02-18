@@ -3,19 +3,17 @@ The prupose of this simple project is to demonstrate the usage of command line a
 Program takes 2 dates in as Command Line parameters and it will return the niumber of days between the 2 days by printing it in the console.
 
 # ~PREREQUISITES~
------------------
 + Have a tool installed that is capable of compiling and running C ansi files
 + Ensure that all of the project's files are in the same directory (in this case, there is only 1)
 
 # ~HOW TO RUN~
---------------
+
 + navigate to the directory of the project
 + type: <gcc -ansi -Wall DaysCalcProblem.c -o dates> into the terminal
 + ensure code compiles with no errors
 + type: <./dates dd1 mm1 yyyy1 dd2 mm2 yyyy2>
 
 # ~SPECIAL TIPS~
-----------------
 Alright, here will be the explanation and a hint regarding what you must do in order for the program to run successfully.
 
 In the program, it says: 
@@ -23,7 +21,6 @@ In the program, it says:
         the argc and *argv[] parameters are actually what allows us to read info from the command line.
         ARGC is the number of arguments on the command line
         ARGV is the array where the arguments are stored and can be accessed.
-
         e.g. If we run the file by typing this: <./dates 12 01 2001 08 09 2002>
 
 argv:      0    1  2   3   4  5   6
@@ -41,7 +38,6 @@ You can even store them in variables! ;)
                                     of them ALL)
 
 # ~YOUR CHALLENGE~
-----------------
 Alrighty!  YOUR job will be to simply enter 6 lines where indicated into the code.
 They're mighty short and simple commands too ;)
 
